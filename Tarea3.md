@@ -36,6 +36,7 @@ public class Singleton {
         return INSTANCE;
     }
 }
+```
 
 ##Factory Method
 
@@ -57,6 +58,7 @@ En una aplicación posiblemente nos encontremos con algún valor que permanece c
 
 ```java
 final tipo_variable nombre_de_variable = valor;
+```
 
 ##Sobrecarga de Operadores
 
